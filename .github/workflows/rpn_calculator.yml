@@ -13,6 +13,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install dependencies
-      run: git submodule update && cd rpn-calculator && shards install
+      run: cd rpn-calculator && git submodule update && shards install
     - name: Run tests
       run: crystal spec
