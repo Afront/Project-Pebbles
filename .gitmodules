@@ -1,0 +1,3 @@
+[submodule "rpn-calculator"]
+	path = rpn-calculator
+	url = https://github.com/Afront/rpn-calculator.git
