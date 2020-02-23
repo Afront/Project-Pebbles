@@ -1,3 +1,6 @@
 [submodule "rpn-calculator"]
 	path = rpn-calculator
 	url = https://github.com/Afront/rpn-calculator.git
+[submodule "ll-calculator"]
+	path = ll-calculator
+	url = https://github.com/Afront/ll-calculator.git
